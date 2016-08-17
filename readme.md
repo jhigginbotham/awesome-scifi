@@ -1544,6 +1544,12 @@ Categories: `drama` `fantasy` `horror`
 
 > Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
+#### [Continuum](http://www.imdb.com/title/tt1954347/) (2012-2015) [7.7]
+
+Categories: `drama` `action` `adventure`
+
+> A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
+
 ## Links
 
 * [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319)  - Hacker News
